@@ -1,0 +1,28 @@
+#############################################
+#Format:
+#FIELD_NAME_FOLLOWED_BY_COLON:
+# - SUB OPTION FORMAT: SPACE, DASH, SPACE
+#FIELD_NAME:
+# - ARGUMENT
+#############################################
+CHROMEDRIVER_PATH:
+# - /usr/bin/chromedriver # placeholder for Linux/Mac
+# - C:\chromedriver # placeholder for Windows
+# uncomment a line where you have saved the chromedriver
+# executable, or enter the absolute path for it
+FACEBOOK_EMAIL: 
+ - daseif7@gmail.com
+#- optional second email here [repeat as necessary]
+FACEBOOK_PASSWORD: 
+ - Zultan23
+# - password for second email [repeat as necessary]
+OUTLOOK_EMAIL: 
+ - daseif7@gmail.com
+#- optional second email here [repeat as necessary]
+OUTLOOK_PASSWORD:
+ - Zultan23!
+#- password for second outlook email [repeat as necessary]
+NUMBER_OF_DESKTOP_SEARCHES:
+ - 30
+NUMBER_OF_MOBILE_SEARCHES:
+ - 20
