@@ -2,11 +2,11 @@ import smtplib
 
 #send email through gmail
 
-user = 'tradebot523@gmail.com'
+user = ''
 password = 'metcalf118'
 
 from_addr = user
-to_addr = 'monicaxrao@gmail.com'
+to_addr = ''
 subject = 'Click Me'
 body = '...hai'
 
