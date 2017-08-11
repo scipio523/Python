@@ -23,7 +23,6 @@ def Stock_Prices():
 		
 		except Exception as e:
 			print('1st try', str(e))
-			time.sleep(10)
 			try:
 				ticker = each_dir.split('\\')[1]
 				data = quandl.get('WIKI/' + ticker.upper(), 
